@@ -29,7 +29,6 @@ Fullstack Developer | SIJA Student | Vue + Laravel Learner
 
 📌 Featured Projects
 - [eFurniture-Fullstack](https://github.com/tyvinx/eFurniture-Fullstack)
-- [web-sekolah](https://github.com/tyvinx/web-sekolah)
 
 <!--
 **tyvinx/tyvinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
